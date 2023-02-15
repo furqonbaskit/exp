@@ -2,7 +2,6 @@ name: PR Validation
 on:
   pull_request:
     branches: [ develop ]
-  workflow_dispatch:
 
 jobs:
   run_lint:
