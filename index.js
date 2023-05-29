@@ -6,4 +6,6 @@ console.log('console log again develop')
 console.log('no need')
 
 console.log('needed')
+
+console.log('needed 2')
 //comment
